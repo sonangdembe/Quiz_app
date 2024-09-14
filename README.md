@@ -1,3 +1,1 @@
-
-
-    https://quiz-app-seven-ruddy.vercel.app/
+https://quiz-app-seven-ruddy.vercel.app/
